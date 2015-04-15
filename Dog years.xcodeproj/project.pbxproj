@@ -13,6 +13,7 @@
 		52000A591AD3F52100AD23B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52000A581AD3F52100AD23B2 /* Images.xcassets */; };
 		52000A5C1AD3F52100AD23B2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52000A5A1AD3F52100AD23B2 /* LaunchScreen.xib */; };
 		52000A681AD3F52100AD23B2 /* Dog_yearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52000A671AD3F52100AD23B2 /* Dog_yearsTests.swift */; };
+		52000A721AD3F88200AD23B2 /* dogclip.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52000A711AD3F88200AD23B2 /* dogclip.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		52000A611AD3F52100AD23B2 /* Dog yearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dog yearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52000A661AD3F52100AD23B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52000A671AD3F52100AD23B2 /* Dog_yearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog_yearsTests.swift; sourceTree = "<group>"; };
+		52000A711AD3F88200AD23B2 /* dogclip.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dogclip.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				52000A531AD3F52100AD23B2 /* ViewController.swift */,
 				52000A551AD3F52100AD23B2 /* Main.storyboard */,
 				52000A581AD3F52100AD23B2 /* Images.xcassets */,
+				52000A711AD3F88200AD23B2 /* dogclip.jpg */,
 				52000A5A1AD3F52100AD23B2 /* LaunchScreen.xib */,
 				52000A4F1AD3F52100AD23B2 /* Supporting Files */,
 			);
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52000A721AD3F88200AD23B2 /* dogclip.jpg in Resources */,
 				52000A571AD3F52100AD23B2 /* Main.storyboard in Resources */,
 				52000A5C1AD3F52100AD23B2 /* LaunchScreen.xib in Resources */,
 				52000A591AD3F52100AD23B2 /* Images.xcassets in Resources */,
